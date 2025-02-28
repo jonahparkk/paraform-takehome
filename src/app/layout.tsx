@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Apply for a job",
-  description: "Apply for a job with ease",
+  title: "Paraform Takehome",
+  description: "Paraform Takehome",
 };
 
 export default function RootLayout({
